@@ -1,0 +1,19 @@
+# Ignore all gradle folders and files
+
+code/.gradle/*
+code/gradle/*
+code/gradlew
+code/gradlew.bat
+code/out
+code/build
+
+# Ignore idea folder
+code/.idea/*
+
+code/bin/*
+code/.classpath
+code/.project
+code/.settings
+
+docs/UML/*.vpp.bak*
+docs/UML/*.vpp.lck
