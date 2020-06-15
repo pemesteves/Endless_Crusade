@@ -8,12 +8,20 @@
 
 ## Screenshots
 
-&nbsp;Since we have not finished the game yet, here we show some screenshots of the original game:
+### Original Game:
 
 ![One Way Heroics: world](images/world.jpg "One Way Heroics: world")
 
-![One Way Heroics: interaction with enemy](images/enemy.jpg "One Way Heroics: interaction with enemy")
+### Lanterna Version
+
+![Lanterna](images/lanterna.jpg "Lanterna")
+
+### Swing Version
+
+![Moving the World](images/swing_world2.jpg "Moving the World")
 
 ## Install Instructions
 
-> How can someone install the game in their computer.
+To install this game you simply have to download the source code, compile and run it using gradle or some similar tool.
+
+If you want to play the Swing version, you need to pass the flag '-Swing' as an argument of the program. 
